@@ -12,7 +12,7 @@
         "steps": [
           {
             "name": "Create CloudTrail",
-            "url": "/resources/conf1.html"
+            "url": "resources/conf1.html"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "steps": [
           {
             "name": "Configure AWS Add-on",
-            "url": "resources/conf2.html"
+            "url": "resources/conf1.html"
           }
         ]
       }
