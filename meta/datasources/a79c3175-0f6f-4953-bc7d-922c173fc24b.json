@@ -1,5 +1,5 @@
 {
-  "description": "SQS-based S3 is the recommended input type for real-time data collection from S3 buckets because it is scalable and provides better ingestion performance than the other S3 input types.",
+  "description": "SQS-based S3 is the  recommended input type for real-time data collection from S3 buckets because it is scalable and provides better ingestion performance than the other S3 input types.",
   "details": {
     "key words": [
       "real-time",
