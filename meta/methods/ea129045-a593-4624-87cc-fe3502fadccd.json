@@ -1,0 +1,34 @@
+{
+  "dataSources": [
+    "a79c3175-0f6f-4953-bc7d-922c173fc24b"
+  ],
+  "description": "Install the AWS TA on a heavy forwarder to pull data from AWS services. Use SQS-based S3. ",
+  "details": {},
+  "id": "ea129045-a593-4624-87cc-fe3502fadccd",
+  "instruction": {
+    "steps": [
+      {
+        "name": "Configure AWS Service",
+        "steps": [
+          {
+            "name": "Create CloudTrail",
+            "url": "conf1.md"
+          }
+        ]
+      },
+      {
+        "name": "Configure AWS Add-on",
+        "steps": [
+          {
+            "name": "Configure AWS Add-on",
+            "url": "conf2.md"
+          }
+        ]
+      }
+    ],
+    "url": "cloudtrail-sqs-based-s3.md"
+  },
+  "name": "Log S3 API Calls in CloudTrail and ingest by SQS-Based S3 in AWS Add-on",
+  "parent": "1f26166a-fe51-4626-8e39-f6817c4592ba",
+  "bestPractice": "TODO" 
+}
