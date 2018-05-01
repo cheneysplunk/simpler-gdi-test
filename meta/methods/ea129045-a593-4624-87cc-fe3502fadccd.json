@@ -2,7 +2,7 @@
   "dataSources": [
     "a79c3175-0f6f-4953-bc7d-922c173fc24b"
   ],
-  "description": "Install the AWS TA on a heavy forwarder to pull data from AWS services. Use SQS-based S3. ",
+  "description": "Install the  AWS TA on a heavy forwarder to pull data from AWS services. Use SQS-based S3. ",
   "details": {},
   "id": "ea129045-a593-4624-87cc-fe3502fadccd",
   "instruction": {
