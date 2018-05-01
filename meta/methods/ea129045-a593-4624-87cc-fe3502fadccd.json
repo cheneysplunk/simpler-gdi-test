@@ -21,7 +21,7 @@
         "steps": [
           {
             "name": "Configure AWS Add-on",
-            "url": "conf2.md"
+            "url": "conf2.html"
           }
         ]
       }
