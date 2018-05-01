@@ -29,7 +29,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ![Pony](pony.jpg)
 
-Like links, Images  also have a footnote style syntax
+Like links, Images also have a footnote style syntax
 
 
 
