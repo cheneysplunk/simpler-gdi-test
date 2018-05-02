@@ -1,5 +1,7 @@
 # Create CloudTrail
-Select deployment type 
+
+Select deployment type
+
 1. Sign in to the AWS Management Console and open the [Cloudtrail console](https://console.aws.amazon.com/). 
 2. Choose the region where you want the trail to be created.
 3. Choose **Get Started Now**.
@@ -8,7 +10,8 @@ Select deployment type
 6. For **Management events**, for **Read/Write events**, choose if you want your trail to log **All**, **Read-only**, **Write-only**, or **None**, and then choose **Save**. By default, trails log all management events. For more information, see [Management Events](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-management-and-data-events-with-cloudtrail.html#logging-management-events).
 7. For **Storage location**, for **Create a new S3 bucket**, choose **Yes** to create a bucket. When you create a bucket, CloudTrail creates and applies the required bucket policies.
 
-	Note: If you choose No, choose an existing S3 bucket. The bucket policy must grant CloudTrail permission to write to it. For information about manually editing the bucket policy, see [Amazon S3 Bucket Policy for CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/create-s3-bucket-policy-for-cloudtrail.html).
+Note: If you choose No, choose an existing S3 bucket. The bucket policy must grant CloudTrail permission to write to it. For information about manually editing the bucket policy, see [Amazon S3 Bucket Policy for CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/create-s3-bucket-policy-for-cloudtrail.html).
+
 8. For **S3 bucket**, type a name for the bucket you want to designate for log file storage. The name must be globally unique. For more information, see [Amazon S3 Bucket Naming Requirements](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-s3-bucket-naming-requirements.html).
 
 9. (Optional) Configure advanced settings for your trail. 
