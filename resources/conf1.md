@@ -14,7 +14,7 @@ Note: If you choose No, choose an existing S3 bucket. The bucket policy must gra
 9. (Optional) Configure advanced settings for your trail. 
 	* For **Storage location**, choose **Advanced**.
 	* In the Log file prefix field, type a prefix for your Amazon S3 bucket. THe prefix is an addition to the URL for an Amazon S3 object that creates a folder-like organization in your bucket. The location where your log files will be stored appears under the text field.
-	* For **Encrypt log files**, choose **Yes** if you want AWS KMS to encrypt your log files.
+	* For **Encrypt log files**,  choose **Yes** if you want AWS KMS to encrypt your log files.
 	* For **Create a new KMS key**, choose **Yes** to create a key or **No** to use an existing one.
 	* If you chose Yes, type an alias in the KMS key field. CloudTrail encrypts your log files with the key and adds the policy for you. 
 
