@@ -1,5 +1,5 @@
 # Create CloudTrail
-Testing x y z
+Testing x y
 1. Sign in to the AWS Management Console and open the [Cloudtrail console](https://console.aws.amazon.com/). 
 2. Choose the region where you want the trail to be created.
 3. Choose **Get Started Now**.
