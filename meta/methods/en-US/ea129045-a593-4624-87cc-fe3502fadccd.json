@@ -12,7 +12,7 @@
         "steps": [
           {
             "name": "Create CloudTrail",
-            "url": "resources/conf1.html"
+            "url": "conf1.html"
           }
         ]
       },
@@ -21,12 +21,12 @@
         "steps": [
           {
             "name": "Configure AWS Add-on",
-            "url": "resources/conf2.html"
+            "url": "conf2.html"
           }
         ]
       }
     ],
-    "url": "resources/cloudtrail-sqs-based-s3.html"
+    "url": "cloudtrail-sqs-based-s3.html"
   },
   "name": "Log S3 API Calls in CloudTrail and ingest by SQS-Based S3 in AWS Add-on",
   "parent": "1f26166a-fe51-4626-8e39-f6817c4592ba",
