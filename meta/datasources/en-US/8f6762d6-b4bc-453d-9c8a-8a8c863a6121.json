@@ -1,7 +1,7 @@
 {
   "description": "TODO",
   "details": {},
-  "icon": "/meta/icons/icon_datasource.png",
+  "icon": "/icons/icon_datasource.png",
   "id": "8f6762d6-b4bc-453d-9c8a-8a8c863a6121",
   "name": "AWS"
 }
