@@ -1,0 +1,83 @@
+{
+    "dataSources": [
+      "a79c3175-0f6f-4953-bc7d-922c173fc24b"
+    ],
+    "description": "Test topology",
+    "details": {},
+    "id": "5c543d6a-00eb-46f6-d2ec-8b5a1bd9128a",
+    "instruction": {
+      "overview": {
+        "deployment": [
+            {
+              "name": "Single Instance",
+              "desc": "Description",
+              "topology": "SingleInstance"
+            },
+            {
+              "name": "Distributed",
+              "desc": "Description",
+              "more_options": [
+                {
+                  "name": "Best Practice 01",
+                  "topology": "SH&INX"
+                },
+                {
+                  "name": "Best Practice 02",
+                  "topology": "SHC&INC"
+                },
+                {
+                  "name": "Best Practice 03", 
+                  "topology":"SHC&INX"
+                },
+                {
+                  "name": "Best Practice 04",
+                  "topology": "SH&INC"
+                }
+              ]
+            },
+            {
+              "name": "Cloud",
+              "desc": "Description",
+              "topology": "Cloud"
+            }
+          ],
+        "splunk_config": [
+          {
+            "name": "Splunk Single Instance Configurations",
+            "link": "test/image_single.png",
+            "steps": ["create CloudTrail", "Configure AWS account"],
+            "topologies": ["SingleInstance"]
+          },
+          {
+            "name": "Splunk Cloud Configurations",
+            "link": "test/image_distributed.png",
+            "steps": ["Install AWS Add-on", "Create dead letter queue"],
+            "topologies": ["SHC&INC", "SHC&INX", "SH&INX", "SH&INC",  "Cloud"]
+          }
+        ],
+  
+        "vendor_config": [
+          {
+            "name": "AWS Configurations",
+            "link": "test/image_vendor.png",
+            "steps": ["_TEXT(vendor_step1)", "vendor_step2"],
+            "topologies": ["SingleInstance", "SH&INX", "SHC&INC", "SHC&INX", "SH&INC", "Cloud"]
+          }
+        ] 
+      },
+      "pony_doc_link": [
+        {
+          "name": "Documentation of test topology",
+          "url": "http://docs.splunk.com/Documentation/AddonBuilder/latest/UserGuide/Overview",
+          "topologies": ["SH&INX", "SHC&INC", "SHC&INX", "SH&INC", "Cloud"]
+        },
+        {
+          "name": "Documentation of test topology 2",
+          "url": "http://docs.splunk.com/Documentation/AddonBuilder/2.2.0/UserGuide/ExtractFields",
+          "topologies": ["SingleInstance"]
+        },
+      ],
+    },
+    "name": "Test topology",
+    "bestPractice": "TODO" 
+  }
