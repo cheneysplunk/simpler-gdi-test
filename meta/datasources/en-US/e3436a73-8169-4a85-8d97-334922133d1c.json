@@ -1,0 +1,8 @@
+{
+    "description": "Logs and platform components\u2019 metrics through Loggregator", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e3436a73-8169-4a85-8d97-334922133d1c", 
+    "name": "Pivotal Cloud Foundry", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}

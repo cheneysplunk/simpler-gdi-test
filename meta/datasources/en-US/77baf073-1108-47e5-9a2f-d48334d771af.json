@@ -1,0 +1,8 @@
+{
+    "description": "Generic data from SQS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "77baf073-1108-47e5-9a2f-d48334d771af", 
+    "name": "SQS", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

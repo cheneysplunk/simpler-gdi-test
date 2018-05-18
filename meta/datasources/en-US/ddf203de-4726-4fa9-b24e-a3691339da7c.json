@@ -1,0 +1,8 @@
+{
+    "description": "Monitor every user request that CloudFront receives", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "ddf203de-4726-4fa9-b24e-a3691339da7c", 
+    "name": "CloudFront Access Logs", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

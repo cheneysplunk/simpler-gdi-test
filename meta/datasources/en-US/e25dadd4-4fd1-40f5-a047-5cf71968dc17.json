@@ -1,0 +1,8 @@
+{
+    "description": "Google cloud platform events, logs, performance metrics and billing data", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e25dadd4-4fd1-40f5-a047-5cf71968dc17", 
+    "name": "Google Cloud Platform (GCP)", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Network flow headers from direct packet capture streams or files using the Bro IDS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "ba47c0ce-5f85-4568-8739-b5009e0f9f3a", 
+    "name": "Bro", 
+    "parent": "469905d6-c574-4a65-80ca-65d1f7b2ec18"
+}

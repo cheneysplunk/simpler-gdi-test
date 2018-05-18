@@ -1,0 +1,8 @@
+{
+    "description": "Vulnerability Scanner", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "18401be3-2ce0-4352-aaea-de9bf7920106", 
+    "name": "Vulnerability Scanner", 
+    "parent": "3a82fb3e-acbd-40fb-8b55-fcdc1ab0cbe6"
+}

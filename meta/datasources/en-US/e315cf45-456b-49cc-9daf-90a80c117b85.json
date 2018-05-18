@@ -1,0 +1,8 @@
+{
+    "description": "Blue Coat ProxySG log files", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e315cf45-456b-49cc-9daf-90a80c117b85", 
+    "name": "Bluecoat ProxySG Secure Web Gateway", 
+    "parent": "5e2582c4-37b4-4e5b-abf5-723b07ef30ea"
+}

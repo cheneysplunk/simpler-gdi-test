@@ -1,0 +1,8 @@
+{
+    "description": "Security and traffic data collected from FortiGate physical and virtual appliances across domains", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "8083f901-95b1-4c83-9e7c-c21c0b7916df", 
+    "name": "Fortinet FortiGate", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

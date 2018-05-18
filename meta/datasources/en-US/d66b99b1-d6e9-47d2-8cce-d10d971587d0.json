@@ -1,0 +1,8 @@
+{
+    "description": "Web site activity data from Microsoft IIS servers", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "d66b99b1-d6e9-47d2-8cce-d10d971587d0", 
+    "name": "Microsoft Internet Information Services (IIS)", 
+    "parent": "023cbcd2-f442-4786-acea-5e96794f5eb9"
+}

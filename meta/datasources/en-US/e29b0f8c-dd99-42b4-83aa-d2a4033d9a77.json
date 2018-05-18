@@ -1,0 +1,8 @@
+{
+    "description": "VMware ESXi hypervisor logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e29b0f8c-dd99-42b4-83aa-d2a4033d9a77", 
+    "name": "VMware ESXi", 
+    "parent": "723f3ed9-6e5c-4dad-9540-57cdc6a0daf5"
+}

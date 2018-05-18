@@ -1,0 +1,8 @@
+{
+    "description": "Management Center", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "db942af7-4876-46b4-af1e-62de1f47fe0b", 
+    "name": "Management Center", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

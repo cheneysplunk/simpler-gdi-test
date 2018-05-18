@@ -1,0 +1,8 @@
+{
+    "description": "Web Gateway", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "6fe111d7-a977-4123-9f16-9fbeee323c30", 
+    "name": "Web Gateway", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

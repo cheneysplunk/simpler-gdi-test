@@ -1,0 +1,8 @@
+{
+    "description": "Windows event logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "405551d9-f2b3-4d58-b1be-12555fee7ee7", 
+    "name": "Microsoft Windows", 
+    "parent": "2e5dd2a8-63f6-4771-998b-a197c37036cc"
+}

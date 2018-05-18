@@ -1,0 +1,8 @@
+{
+    "description": "Collect events from the Squid Proxy server access log", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "77419808-aba1-4bb9-a073-e5cd897571d1", 
+    "name": "Squid Proxy", 
+    "parent": "5e2582c4-37b4-4e5b-abf5-723b07ef30ea"
+}

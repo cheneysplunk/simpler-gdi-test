@@ -1,0 +1,8 @@
+{
+    "description": "Cost and Usage Reports for AWS resources", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "73275015-3ea1-4214-8ef1-81726dec58b5", 
+    "name": "Billing (Cost and Usage Reports)", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "NetFlow streams from compatible network gear", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "9aa19cf8-ae58-4b66-8439-d584c61a5071", 
+    "name": "Netflow", 
+    "parent": "0cd7289e-3511-4dc8-9596-e4a8b86ecb74"
+}

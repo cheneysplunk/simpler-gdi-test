@@ -1,0 +1,8 @@
+{
+    "description": "Tomcat server logs and performance data", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "000dbd86-555e-43f1-9c47-f371415f1691", 
+    "name": "Apache Tomcat", 
+    "parent": "eb9d34b2-5435-4e31-9432-8f756e0fcbb8"
+}

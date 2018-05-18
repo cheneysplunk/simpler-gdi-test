@@ -1,0 +1,8 @@
+{
+    "description": "Monitor JMX Management Servers running in Java Virtual Machines across your entire infrastructure", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "bb2f6772-caf1-46d7-90dd-a3e342e26451", 
+    "name": "Java Management Extensions (JMX)", 
+    "parent": "aaa870eb-1dd0-4e8f-9090-eb74e4bde6fc"
+}

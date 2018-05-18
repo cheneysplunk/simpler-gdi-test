@@ -1,0 +1,8 @@
+{
+    "description": "DNS and DHCP logs from Infoblox NIOS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "d5e791b0-8ea7-4351-bc7f-cea7fe22509c", 
+    "name": "Infoblox Network Identity Operating System (NIOS)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

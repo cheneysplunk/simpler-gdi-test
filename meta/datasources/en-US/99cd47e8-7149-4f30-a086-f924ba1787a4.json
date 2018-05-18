@@ -1,0 +1,8 @@
+{
+    "description": "Configuration snapshots and historical configuration data from the AWS Config service", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "99cd47e8-7149-4f30-a086-f924ba1787a4", 
+    "name": "Config", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

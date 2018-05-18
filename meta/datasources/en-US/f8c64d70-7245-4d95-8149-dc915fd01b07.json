@@ -1,0 +1,8 @@
+{
+    "description": "New Relic APM and New Relic Insights platforms", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f8c64d70-7245-4d95-8149-dc915fd01b07", 
+    "name": "New Relic", 
+    "parent": "aaa870eb-1dd0-4e8f-9090-eb74e4bde6fc"
+}

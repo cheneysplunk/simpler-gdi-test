@@ -1,0 +1,8 @@
+{
+    "description": "S3 access logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "2c487685-af6e-4019-85a8-a5f64dbfe7c8", 
+    "name": "S3 Access Logs", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

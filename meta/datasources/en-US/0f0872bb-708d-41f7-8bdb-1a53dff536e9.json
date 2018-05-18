@@ -1,0 +1,8 @@
+{
+    "description": "HAProxy logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "0f0872bb-708d-41f7-8bdb-1a53dff536e9", 
+    "name": "HAProxy", 
+    "parent": "a90759ad-d2a9-4a04-b450-41ca6e893112"
+}

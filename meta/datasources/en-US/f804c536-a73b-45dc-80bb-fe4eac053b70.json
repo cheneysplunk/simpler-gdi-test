@@ -1,0 +1,8 @@
+{
+    "description": "DHCP access logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f804c536-a73b-45dc-80bb-fe4eac053b70", 
+    "name": "ISC DHCP", 
+    "parent": "c2cd8bda-15d0-4744-b2a1-4417e81d0f98"
+}

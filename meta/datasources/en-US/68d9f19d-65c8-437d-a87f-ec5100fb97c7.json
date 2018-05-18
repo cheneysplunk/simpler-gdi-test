@@ -1,0 +1,8 @@
+{
+    "description": "Machine data stored on OPC UA servers", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "68d9f19d-65c8-437d-a87f-ec5100fb97c7", 
+    "name": "OPC Unified Architecture (OPC UA)", 
+    "parent": "d51907b0-4e51-4ffb-8a45-b3f312b1b122"
+}

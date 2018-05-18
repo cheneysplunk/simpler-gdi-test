@@ -1,0 +1,8 @@
+{
+    "description": "System logs and traffic statistics from Imperva SecureSphere Web Application Firewall (WAF)", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "6e691ce7-d332-4418-96a4-34b23bc02036", 
+    "name": "Imperva SecureSphere Web Application Firewall (WAF)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

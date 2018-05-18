@@ -1,0 +1,8 @@
+{
+    "description": "Network sessions and connections, as well as logins, logouts, device status changes, and network status changes", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "9b77cdc0-da15-4f5c-b1fb-8156fc6ffd88", 
+    "name": "Citrix NetScaler", 
+    "parent": "4e661cd0-0c5d-49aa-82a0-d2b22b871878"
+}

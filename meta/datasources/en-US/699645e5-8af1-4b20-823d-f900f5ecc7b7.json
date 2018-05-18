@@ -1,0 +1,8 @@
+{
+    "description": "Anti-virus information and Network Security Platform (Intrushield) information", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "699645e5-8af1-4b20-823d-f900f5ecc7b7", 
+    "name": "McAfee ePO v5 VirusScan, Network Security Platform (Intrushield)", 
+    "parent": "469905d6-c574-4a65-80ca-65d1f7b2ec18"
+}

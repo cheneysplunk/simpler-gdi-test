@@ -1,0 +1,8 @@
+{
+    "description": "Linux performance metrics", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "c002cdfe-d967-4272-a8b9-a33c74547ddd", 
+    "name": "Linux performance metrics from Linux using collectd", 
+    "parent": "2e5dd2a8-63f6-4771-998b-a197c37036cc"
+}

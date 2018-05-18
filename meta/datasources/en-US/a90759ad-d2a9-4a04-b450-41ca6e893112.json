@@ -1,0 +1,8 @@
+{
+    "description": "Load Balancer", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "a90759ad-d2a9-4a04-b450-41ca6e893112", 
+    "name": "Load Balancer", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

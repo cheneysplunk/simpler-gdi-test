@@ -1,0 +1,8 @@
+{
+    "description": "Active Directory health, site, and login information", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "6d756aaf-4865-441d-afa6-a3da453b3a0b", 
+    "name": "Microsoft Active Directory (AD)", 
+    "parent": "a08a4f07-7a71-40bf-aac2-7fcdbee715ef"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Tenable vulnerability scan data from Nessus 6.X and Security Center", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "3ab3573d-133a-4203-b3f6-0c89243a3a40", 
+    "name": "Tenable Nessus", 
+    "parent": "18401be3-2ce0-4352-aaea-de9bf7920106"
+}

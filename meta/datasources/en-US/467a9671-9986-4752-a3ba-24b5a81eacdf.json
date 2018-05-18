@@ -1,0 +1,8 @@
+{
+    "description": "Monitor your AWS infrastructure", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "467a9671-9986-4752-a3ba-24b5a81eacdf", 
+    "name": "Amazon Web Services (AWS)", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}

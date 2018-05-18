@@ -1,0 +1,8 @@
+{
+    "description": "Firewall", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "0aef123c-1cee-425b-93b0-7054de9e88b1", 
+    "name": "Firewall", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

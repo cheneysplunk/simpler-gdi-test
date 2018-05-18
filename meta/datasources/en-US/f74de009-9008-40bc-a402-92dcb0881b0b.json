@@ -1,0 +1,8 @@
+{
+    "description": "Inventory, performance information, and status events from VNX arrays or Control Stations", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f74de009-9008-40bc-a402-92dcb0881b0b", 
+    "name": "EMC VNX", 
+    "parent": "7ab9b392-2223-4f60-905a-2f0b98bcfad8"
+}

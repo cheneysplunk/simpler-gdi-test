@@ -1,0 +1,8 @@
+{
+    "description": "Access logs, audit information, and health information about vCenter processes", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "39e3735c-60ad-485b-a966-62e907b227c1", 
+    "name": "VMWare vCenter", 
+    "parent": "723f3ed9-6e5c-4dad-9540-57cdc6a0daf5"
+}

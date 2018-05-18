@@ -1,0 +1,8 @@
+{
+    "description": "Network traffic data, DNS query data, and traffic statistics from the ISC BIND", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "308ae968-8d7c-454a-b0b1-8d1ea516db47", 
+    "name": "ISC BIND", 
+    "parent": "274199ed-b7b0-4f9e-9e65-bbc7d679bd2d"
+}

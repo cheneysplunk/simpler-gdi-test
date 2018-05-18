@@ -1,0 +1,8 @@
+{
+    "description": "Okta event, user, group, and application information", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "b094bd25-90af-4c39-a727-5c8ae4cad783", 
+    "name": "Okta", 
+    "parent": "a08a4f07-7a71-40bf-aac2-7fcdbee715ef"
+}

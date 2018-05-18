@@ -1,0 +1,8 @@
+{
+    "description": "DNS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "274199ed-b7b0-4f9e-9e65-bbc7d679bd2d", 
+    "name": "DNS", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

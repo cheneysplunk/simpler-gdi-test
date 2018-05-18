@@ -1,0 +1,8 @@
+{
+    "description": "Mobile application transactions, events, errors, and crash reports", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "be2885d6-5c12-48b6-8581-17f2a8995b49", 
+    "name": "Splunk Mobile Intelligence", 
+    "parent": "aaa870eb-1dd0-4e8f-9090-eb74e4bde6fc"
+}

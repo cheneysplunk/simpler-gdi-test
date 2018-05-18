@@ -1,0 +1,8 @@
+{
+    "description": "Activity logs, service status, operational messages from Azure and other Microsoft cloud services", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "eb15daf2-daad-45da-afb1-1667cd61d177", 
+    "name": "Microsoft Cloud Services", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}

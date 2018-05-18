@@ -1,0 +1,8 @@
+{
+    "description": "Data from every product in the Palo Alto Networks Next-generation Security Platform, including Firewalls, Panorama, Traps Endpoints, Aperture SaaS Security, AutoFocus, MineMeld, and WildFire", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "2a36c2a0-40d2-4088-8ee4-5c84e072dd89", 
+    "name": "Palo Alto Networks", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

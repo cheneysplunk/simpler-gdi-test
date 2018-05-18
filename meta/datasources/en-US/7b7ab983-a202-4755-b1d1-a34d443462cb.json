@@ -1,0 +1,8 @@
+{
+    "description": "Generic log data from your S3 buckets", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "7b7ab983-a202-4755-b1d1-a34d443462cb", 
+    "name": "S3", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

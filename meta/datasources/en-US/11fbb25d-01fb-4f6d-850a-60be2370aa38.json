@@ -1,0 +1,8 @@
+{
+    "description": "Record user authentication, user session, VPN and intrusion messages from Cisco ASA, PIX, and FWSM devices", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "11fbb25d-01fb-4f6d-850a-60be2370aa38", 
+    "name": "Cisco Adaptive Security Appliance (ASA)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

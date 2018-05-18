@@ -1,0 +1,8 @@
+{
+    "description": "Monitoring", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "d109e6a8-c8c7-4252-b8be-b96913b7f028", 
+    "name": "Monitoring", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

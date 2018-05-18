@@ -1,0 +1,8 @@
+{
+    "description": "Assessment Runs and Findings data from the Amazon Inspector service.\t", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "abb45d95-0c4f-42f7-b06a-aa646b8ad3f1", 
+    "name": "Inspector", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

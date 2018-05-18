@@ -1,0 +1,8 @@
+{
+    "description": "Administration", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "ea06d106-65d0-494f-a82b-950302caa349", 
+    "name": "Administration", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

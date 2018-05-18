@@ -1,0 +1,8 @@
+{
+    "description": "Alert events from OSSEC servers", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "d9830b0d-e945-40af-bd24-550d936a53b0", 
+    "name": "OSSEC (Open Source HIDS SEcurity)", 
+    "parent": "469905d6-c574-4a65-80ca-65d1f7b2ec18"
+}

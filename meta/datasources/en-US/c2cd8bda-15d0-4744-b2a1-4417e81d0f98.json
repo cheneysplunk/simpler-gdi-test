@@ -1,0 +1,8 @@
+{
+    "description": "DHCP", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "c2cd8bda-15d0-4744-b2a1-4417e81d0f98", 
+    "name": "DHCP", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

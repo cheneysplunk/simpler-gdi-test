@@ -1,0 +1,8 @@
+{
+    "description": "Proxy", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "5e2582c4-37b4-4e5b-abf5-723b07ef30ea", 
+    "name": "Proxy", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

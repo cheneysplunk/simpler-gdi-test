@@ -1,0 +1,8 @@
+{
+    "description": "NGINX server activities, performance metrics, and error logs ", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "a787cb10-4a4c-44a6-8f1d-d2b624fd0db9", 
+    "name": "NGINX", 
+    "parent": "023cbcd2-f442-4786-acea-5e96794f5eb9"
+}

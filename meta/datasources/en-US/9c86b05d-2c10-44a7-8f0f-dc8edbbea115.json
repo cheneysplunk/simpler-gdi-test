@@ -1,0 +1,8 @@
+{
+    "description": "Cisco NetFlow v10+, Citrix Appflow v1+ and other IPFIX-capable exporters. IPFIX is an industry standard to describe network flows. The Splunk Add-on for IPFIX allows a Splunk software administrator to receive and convert IPFIX flow information from compatible network gear. You can analyze the packet capture data directly or use it as a contextual data feed to correlate with other vulnerability related data in the Splunk platform.", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "9c86b05d-2c10-44a7-8f0f-dc8edbbea115", 
+    "name": "IPFIX", 
+    "parent": "0cd7289e-3511-4dc8-9596-e4a8b86ecb74"
+}
