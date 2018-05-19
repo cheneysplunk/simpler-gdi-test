@@ -1,0 +1,8 @@
+{
+    "description": "Nagios Core logs and NDOUtils data", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "7fafccff-eac8-4d8a-89f5-523d3e09d33b", 
+    "name": "Nagios Core", 
+    "parent": "d109e6a8-c8c7-4252-b8be-b96913b7f028"
+}

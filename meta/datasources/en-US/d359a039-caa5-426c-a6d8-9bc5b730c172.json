@@ -1,0 +1,8 @@
+{
+    "description": "Access and L4TM log data from Cisco Web Security Appliances (WSA)", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "d359a039-caa5-426c-a6d8-9bc5b730c172", 
+    "name": "Cisco Web Security Appliance (WSA)", 
+    "parent": "6fe111d7-a977-4123-9f16-9fbeee323c30"
+}

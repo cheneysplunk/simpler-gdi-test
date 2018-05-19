@@ -1,0 +1,8 @@
+{
+    "description": "Data from the RSA SecurID Authentication Manager (AM), including runtime and admin audit logs, and system logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "4c3957c1-8e80-4816-8468-704478926ae3", 
+    "name": "RSA SecurID", 
+    "parent": "a08a4f07-7a71-40bf-aac2-7fcdbee715ef"
+}

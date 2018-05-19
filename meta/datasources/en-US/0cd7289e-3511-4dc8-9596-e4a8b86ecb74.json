@@ -1,0 +1,8 @@
+{
+    "description": "Netflow", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "0cd7289e-3511-4dc8-9596-e4a8b86ecb74", 
+    "name": "Netflow", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

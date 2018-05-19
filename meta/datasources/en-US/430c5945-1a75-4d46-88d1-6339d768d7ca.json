@@ -1,0 +1,8 @@
+{
+    "description": "Salesforce event logs and output of SOQL", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "430c5945-1a75-4d46-88d1-6339d768d7ca", 
+    "name": "Salesforce", 
+    "parent": "c56067c9-0fab-4577-a511-b4fa3f2086b4"
+}

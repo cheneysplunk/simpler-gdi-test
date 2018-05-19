@@ -1,0 +1,8 @@
+{
+    "description": "Akamai Cloud Monitor data, including traffic distribution, and errors", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "3327439c-f3ec-4c69-b64f-ac865570ab49", 
+    "name": "Akamai Cloud Monitor", 
+    "parent": "6b4e0bff-d284-4129-9313-29eb628f0981"
+}

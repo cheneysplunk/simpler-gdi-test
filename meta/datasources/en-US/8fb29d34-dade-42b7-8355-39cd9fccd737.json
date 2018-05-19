@@ -1,0 +1,8 @@
+{
+    "description": "Data from the CloudWatch Logs service", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "8fb29d34-dade-42b7-8355-39cd9fccd737", 
+    "name": "CloudWatch", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

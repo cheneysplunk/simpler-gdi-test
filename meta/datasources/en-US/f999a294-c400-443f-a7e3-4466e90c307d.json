@@ -1,0 +1,8 @@
+{
+    "description": "Apache Web Server access and error logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f999a294-c400-443f-a7e3-4466e90c307d", 
+    "name": "Apache Web Server", 
+    "parent": "023cbcd2-f442-4786-acea-5e96794f5eb9"
+}

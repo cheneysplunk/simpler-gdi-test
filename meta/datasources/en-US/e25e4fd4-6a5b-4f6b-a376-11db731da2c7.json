@@ -1,0 +1,8 @@
+{
+    "description": "Alert, status, error, log transation, and block request events from Cisco IPS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e25e4fd4-6a5b-4f6b-a376-11db731da2c7", 
+    "name": "Cisco Intrusion Prevention System (IPS)", 
+    "parent": "469905d6-c574-4a65-80ca-65d1f7b2ec18"
+}

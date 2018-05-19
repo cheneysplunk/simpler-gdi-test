@@ -1,0 +1,8 @@
+{
+    "description": "Performance and inventory from your NetApp ONTAP storage environment", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "220159af-7609-4dcb-9f44-bf435a0b824c", 
+    "name": "NetApp ONTAP", 
+    "parent": "7ab9b392-2223-4f60-905a-2f0b98bcfad8"
+}

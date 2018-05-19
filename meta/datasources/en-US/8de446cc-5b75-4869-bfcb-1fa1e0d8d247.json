@@ -1,0 +1,8 @@
+{
+    "description": "IDS, malware, and network traffic data from Cisco FireSIGHT, Sourcefire, and Snort IDS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "8de446cc-5b75-4869-bfcb-1fa1e0d8d247", 
+    "name": "Cisco FireSIGHT", 
+    "parent": "db942af7-4876-46b4-af1e-62de1f47fe0b"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Incident, event, change, user, user group, location, and CMDB CI information from ServiceNow", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "1500bbe3-fb7a-42e3-b270-7673534197f7", 
+    "name": "ServiceNow", 
+    "parent": "c56067c9-0fab-4577-a511-b4fa3f2086b4"
+}

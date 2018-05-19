@@ -1,0 +1,8 @@
+{
+    "description": "JBoss file system logs from and performance metrics from MBean attributes and operations", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "6612a5ae-727a-4dcd-aae3-15c823d5758e", 
+    "name": "Jboss", 
+    "parent": "eb9d34b2-5435-4e31-9432-8f756e0fcbb8"
+}

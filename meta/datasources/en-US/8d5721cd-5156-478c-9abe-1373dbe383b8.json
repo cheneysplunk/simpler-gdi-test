@@ -1,0 +1,8 @@
+{
+    "description": "System performance, SQL server performance, log, audit, and status data from Microsoft SQL Server deployments", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "8d5721cd-5156-478c-9abe-1373dbe383b8", 
+    "name": "Microsoft SQL Server", 
+    "parent": "a97c02cf-0165-4d04-9461-328379cbff81"
+}

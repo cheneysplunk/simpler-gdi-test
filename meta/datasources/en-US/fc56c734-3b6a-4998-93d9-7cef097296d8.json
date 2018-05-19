@@ -1,0 +1,8 @@
+{
+    "description": "Symantec Endpoint Protection (SEP) server and client activity logs from SEP Manager dump files", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "fc56c734-3b6a-4998-93d9-7cef097296d8", 
+    "name": "Symantec Endpoint Protection", 
+    "parent": "f79fe305-b1c5-4ddc-b5e3-209d0d041322"
+}

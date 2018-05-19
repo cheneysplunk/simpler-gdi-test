@@ -1,0 +1,8 @@
+{
+    "description": "ELB access logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "8087c4fb-89ef-4247-be25-9ee1c8505e08", 
+    "name": "ELB Access Logs", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

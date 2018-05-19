@@ -1,0 +1,8 @@
+{
+    "description": "Sophos Endpoint Security event", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "ca0e9ee2-ce80-46d2-8947-7028d1cadab0", 
+    "name": "Sophos", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

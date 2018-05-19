@@ -1,0 +1,8 @@
+{
+    "description": "Audit, alert, and other logs from Oracle Database Server", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "a0bd8378-eed2-45e3-9777-f362204ad54f", 
+    "name": "Oracle", 
+    "parent": "a97c02cf-0165-4d04-9461-328379cbff81"
+}

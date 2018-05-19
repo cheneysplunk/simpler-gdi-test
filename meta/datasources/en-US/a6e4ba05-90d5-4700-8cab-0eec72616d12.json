@@ -1,0 +1,8 @@
+{
+    "description": "Domain Name Server debug logs from Windows hosts that run Windows DNS Server.", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "a6e4ba05-90d5-4700-8cab-0eec72616d12", 
+    "name": "Microsoft Windows Domain Name System (DNS)", 
+    "parent": "274199ed-b7b0-4f9e-9e65-bbc7d679bd2d"
+}

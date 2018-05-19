@@ -1,0 +1,8 @@
+{
+    "description": "Alerts, events, tasks, network devices, management and performance settings from Microsoft SCOM", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "fa50630d-99c0-44a6-aedb-234a48e270af", 
+    "name": "Microsoft System Center Operations Manager (SCOM)", 
+    "parent": "ea06d106-65d0-494f-a82b-950302caa349"
+}

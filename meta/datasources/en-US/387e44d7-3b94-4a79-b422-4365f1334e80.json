@@ -1,0 +1,8 @@
+{
+    "description": "Firewall, VPN, Anti-Virus, Anti-Bot, SmartDefense (IPS), Threat Emulation, and audit logs from Check Point standalone FW-1 firewalls, standard Multi-Domain Security Management (Provider-1) environments, and Provider-1 environments using the Multi-Domain Log Module (MLM)", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "387e44d7-3b94-4a79-b422-4365f1334e80", 
+    "name": "Check Point Open Platform for Security (OPSEC) Log Export API (LEA)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

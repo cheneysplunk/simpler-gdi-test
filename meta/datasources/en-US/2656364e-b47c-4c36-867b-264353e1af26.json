@@ -1,0 +1,8 @@
+{
+    "description": "Compliance details, compliance summary, and evaluation status of your AWS Config Rules", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "2656364e-b47c-4c36-867b-264353e1af26", 
+    "name": "Config Rules", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

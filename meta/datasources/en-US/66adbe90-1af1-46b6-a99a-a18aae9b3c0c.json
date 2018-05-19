@@ -1,0 +1,8 @@
+{
+    "description": "WebSphere Application Server data: including JMX metrics, HPEL logging events, and server logs, including status, trace, error, and exception logs", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "66adbe90-1af1-46b6-a99a-a18aae9b3c0c", 
+    "name": "IBM Websphere Application Server (WAS)", 
+    "parent": "eb9d34b2-5435-4e31-9432-8f756e0fcbb8"
+}

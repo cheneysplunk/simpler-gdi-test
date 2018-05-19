@@ -1,0 +1,8 @@
+{
+    "description": "Endpoint Security", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f79fe305-b1c5-4ddc-b5e3-209d0d041322", 
+    "name": "Endpoint Security", 
+    "parent": "3a82fb3e-acbd-40fb-8b55-fcdc1ab0cbe6"
+}

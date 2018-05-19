@@ -1,0 +1,8 @@
+{
+    "description": "Intrusion Detection System", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "469905d6-c574-4a65-80ca-65d1f7b2ec18", 
+    "name": "Intrusion Detection System", 
+    "parent": "3a82fb3e-acbd-40fb-8b55-fcdc1ab0cbe6"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Logs from McAfee Web Gateway appliance", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "07c5bdbb-d67c-4483-9a15-8c717dc0ddf5", 
+    "name": "McAfee Web Gateway", 
+    "parent": "6fe111d7-a977-4123-9f16-9fbeee323c30"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Notifications and event data from Bit9 Carbon Black servers", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "b4ce5787-e83e-47fe-9216-53a28536396a", 
+    "name": "Carbon Black Server", 
+    "parent": "f79fe305-b1c5-4ddc-b5e3-209d0d041322"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "ISE AAA Audit, Accounting, Posture, Client Provisioning Audit and Profiler events from Cisco ISE", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "c5fa0acc-f905-4d93-8c06-a480eb2dada1", 
+    "name": "Cisco Identity Services Engine (ISE)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Descriptions of your AWS EC2 instances, reserved instances, and EBS snapshots, used to improve dashboard readability.", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "5fef91f1-acff-457d-9b97-7acd1789b99b", 
+    "name": "Description", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

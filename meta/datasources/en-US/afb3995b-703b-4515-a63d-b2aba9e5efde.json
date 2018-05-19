@@ -1,0 +1,8 @@
+{
+    "description": "Malware event logs from Bromium Endpoint Protection", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "afb3995b-703b-4515-a63d-b2aba9e5efde", 
+    "name": "Bromium Endpoint Protection", 
+    "parent": "f79fe305-b1c5-4ddc-b5e3-209d0d041322"
+}

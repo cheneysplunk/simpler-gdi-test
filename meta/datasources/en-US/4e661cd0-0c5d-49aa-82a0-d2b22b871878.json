@@ -1,0 +1,8 @@
+{
+    "description": "Application Delivery Controller", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "4e661cd0-0c5d-49aa-82a0-d2b22b871878", 
+    "name": "Application Delivery Controller", 
+    "parent": "d35c079a-d57d-4134-ab71-866778fab21f"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Privileged Threat Analytics 2.6.3, Enterprise Password Vault 9.x", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "3c362365-9faa-4041-a4ed-9e372048f1bf", 
+    "name": "CyberArk", 
+    "parent": "a08a4f07-7a71-40bf-aac2-7fcdbee715ef"
+}

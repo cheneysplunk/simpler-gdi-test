@@ -1,0 +1,8 @@
+{
+    "description": "Splunk Stream lets you capture, filter, index, and analyze streams of network event data. A \"stream\" is a grouping of events defined by a specific network protocol and set of fields. When combined with logs, metrics, and other information, the streams that you capture with Splunk Stream can provide valuable insight into activities and suspicious behavior across your network infrastructure.", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "85ba07c0-8578-4436-8fb8-2092902180f1", 
+    "name": "Splunk Stream", 
+    "parent": "90a2c4e5-5f48-4252-880b-4144b903c990"
+}

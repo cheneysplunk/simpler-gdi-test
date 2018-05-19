@@ -1,0 +1,8 @@
+{
+    "description": "VPC flow logs from the CloudWatch Logs service", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "f0f4a801-f500-4803-ac9f-0d41bb1448de", 
+    "name": "VPC Flow Logs", 
+    "parent": "467a9671-9986-4752-a3ba-24b5a81eacdf"
+}

@@ -1,0 +1,8 @@
+{
+    "description": "Network traffic data, system logs, system settings, performance metrics, and traffic statistics from the F5 BIG-IP platform", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "e5b6ae38-7bdf-489b-8bbc-82e0b11f4ccf", 
+    "name": "F5 BIG-IP", 
+    "parent": "a90759ad-d2a9-4a04-b450-41ca6e893112"
+}

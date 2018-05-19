@@ -1,0 +1,8 @@
+{
+    "description": "Records from Apache Kafka topics", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "7c32dadf-c372-4510-91a1-62e5e58616c0", 
+    "name": "Apache Kafka", 
+    "parent": "e25dbd8a-428d-41f8-b4e5-aafddbf31d94"
+}

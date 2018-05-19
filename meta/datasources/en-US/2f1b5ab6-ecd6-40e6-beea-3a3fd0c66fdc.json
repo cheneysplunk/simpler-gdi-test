@@ -1,0 +1,8 @@
+{
+    "description": "AWS", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "2f1b5ab6-ecd6-40e6-beea-3a3fd0c66fdc", 
+    "name": "AWS", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}

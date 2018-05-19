@@ -1,0 +1,8 @@
+{
+    "description": "Data from VMware vCenters, ESXi hosts and Virtual Machines", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "ca91a894-b5d2-4295-bee8-b3af9b384e1e", 
+    "name": "VMWare", 
+    "parent": "723f3ed9-6e5c-4dad-9540-57cdc6a0daf5"
+}

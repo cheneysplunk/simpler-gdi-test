@@ -1,0 +1,8 @@
+{
+    "description": "Juniper Networks IDP devices (IDP75, IDP250, IDP800, IDP8200), Juniper Netscreen Firewall 6.x, Juniper NSM, Juniper NSM IDP, Juniper SSLVPN series, Junos OS 11.4+, Junos SRX (SRX 100, SRX110, SRX 210, SRX 220, SRX 240, SRX 550, SRX 650, SRX 3600, SRX 5400, SRX 5600, SRX 5800)", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "3ea2a974-2fe5-42f2-bf3d-4e5cb4b2af0c", 
+    "name": "Juniper Networks", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

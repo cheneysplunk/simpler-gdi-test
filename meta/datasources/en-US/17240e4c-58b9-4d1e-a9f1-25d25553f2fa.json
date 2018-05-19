@@ -1,0 +1,8 @@
+{
+    "description": "Textmail, HTTP, and Authentication logs of Cisco ESA", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "17240e4c-58b9-4d1e-a9f1-25d25553f2fa", 
+    "name": "Cisco Email Security Appliance (ESA)", 
+    "parent": "0aef123c-1cee-425b-93b0-7054de9e88b1"
+}

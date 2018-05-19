@@ -1,0 +1,8 @@
+{
+    "description": "Logs from Websense Content Gateway (also known as Triton AP-Web) appliances", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "1e6465a5-527a-4534-ac4f-b4afc74f26fe", 
+    "name": "Websense Content Gateway", 
+    "parent": "6fe111d7-a977-4123-9f16-9fbeee323c30"
+}

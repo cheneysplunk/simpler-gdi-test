@@ -1,0 +1,8 @@
+{
+    "description": "Malware event logs from Crowdstrike Falcon agents", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "6c681b52-8879-4c6f-9154-064d232d4d1f", 
+    "name": "CrowdStrike Falcon Host", 
+    "parent": "f79fe305-b1c5-4ddc-b5e3-209d0d041322"
+}

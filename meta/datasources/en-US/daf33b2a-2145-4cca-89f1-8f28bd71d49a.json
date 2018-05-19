@@ -1,0 +1,8 @@
+{
+    "description": "General logs, error logs, and slow query logs from MySQL servers, binary logs from MySQL Utilities, and performance and configuration logs from local or remote MySQL Databases", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "daf33b2a-2145-4cca-89f1-8f28bd71d49a", 
+    "name": "MySQL", 
+    "parent": "a97c02cf-0165-4d04-9461-328379cbff81"
+}

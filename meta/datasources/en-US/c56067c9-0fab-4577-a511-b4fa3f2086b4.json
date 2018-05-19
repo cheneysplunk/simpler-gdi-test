@@ -1,0 +1,8 @@
+{
+    "description": "Applications", 
+    "details": {}, 
+    "icon": "/icons/icon_datasource.png", 
+    "id": "c56067c9-0fab-4577-a511-b4fa3f2086b4", 
+    "name": "Applications", 
+    "parent": "ee3f8322-95f3-49c5-af4f-c172df1a1266"
+}
